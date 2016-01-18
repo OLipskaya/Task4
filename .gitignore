@@ -1,0 +1,6 @@
+out/	
+.idea/
+dist/
+node_modules/
+vendor/
+.DS_Store

@@ -1,0 +1,11 @@
+
+.str {
+    font-family: Consolas;
+}
+
+.brd {
+    border: 2px dotted black;
+    background: #def6ff;
+    padding: 10px;
+    border-radius: 10px;
+}
